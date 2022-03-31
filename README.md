@@ -1,1 +1,1 @@
-# NLP-using-TextBlob.
+Expérimenté avec l'étonnante bibliothèque NLP TextBlob. Elle fournit une API simple permettant de se plonger dans des tâches courantes de traitement du langage naturel (NLP) telles que le marquage de la parole, l'extraction de phrases nominales, l'analyse des sentiments, la classification, la traduction, etc.

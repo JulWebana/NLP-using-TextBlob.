@@ -1,1 +1,1 @@
-Expérimenté avec l'étonnante bibliothèque NLP TextBlob. Elle fournit une API simple permettant de se plonger dans des tâches courantes de traitement du langage naturel (NLP) telles que le marquage de la parole, l'extraction de phrases nominales, l'analyse des sentiments, la classification, la traduction, etc.
+Experimented with the amazing NLP Library TextBlob. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more. 
